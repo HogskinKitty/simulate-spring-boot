@@ -7,6 +7,6 @@ import run.threedog.user.service.UserService;
 public class UserServiceImpl implements UserService {
     @Override
     public String test() {
-        return "hello SpringBoot";
+        return "Hello SpringBoot";
     }
 }
